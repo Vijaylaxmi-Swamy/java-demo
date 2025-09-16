@@ -1,3 +1,3 @@
 # java-demo
-My first repository
-Author- Apna-college
+My first repository <br>
+Author- My Lord
